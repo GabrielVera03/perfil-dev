@@ -1,0 +1,3 @@
+perfil Dev
+Gabriel Vera 
+estudante de Analise e Desenvolvimento de Sistemas, onde estou aprendendo HTML,CSS,Git,GitHub
