@@ -4,3 +4,5 @@ Linguagens : Python, JavaScript
 Objetivo: Desenvolvedor Profissional
 
 hobbies: Jogar Futebol,Futvôlei,Video Game,Academia e Viajar
+
+GitHub:https://github.com/GabrielVera03
